@@ -1,7 +1,7 @@
  ## **React Todo App with API** [demo](https://mxmuk.github.io/react_todo-app-with-api/)  
 
 Technologies: Typescript, React, NodeJS, SASS, HTML, CSS, Bulma,\
-Description: single-page application which allows to authorize and add/delete/edit/filter your deals with API\
+Description: single-page application which allows to authorize and add/delete/edit/filter your deals with API
 
 ### `npm start`
 
